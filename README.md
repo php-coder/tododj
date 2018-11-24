@@ -15,6 +15,6 @@ ToDoDj is a yet another todo list. It is written on Python and uses Django Frame
   $ python manage.py runserver
   ```
 
-* open http://127.0.0.1:8000/
+* open http://127.0.0.1:8000/todos/
 
 * press `Ctrl+C` to stop the server
